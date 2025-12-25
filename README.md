@@ -8,7 +8,7 @@ This project implements a **Bidirectional LSTM** neural network to classify song
 - **Features:** Uses pre-trained **GloVe** word embeddings and NLTK for text preprocessing.
 
 ## Key Results
-The model reached a test accuracy of approximately **63-64%**. The evaluation shows high performance in Hip Hop and Rock, with some overlap observed between Pop and Dance genres.
+The model reached a test accuracy of approximately **67%-69%**. The evaluation shows high performance in Hip Hop and Rock, with some overlap observed between Pop and Dance genres.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
